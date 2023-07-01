@@ -1,0 +1,5 @@
+host: nyc.domcloud.id
+u: app-barber-salon
+p: Y73a_i-(XhG5Lr5Z8z
+
+bd: database app_barber_salon_db
